@@ -176,7 +176,7 @@ You do not need to implement many of these. One or two well-chosen improvements 
 
 You are allowed to use AI tools while completing this assignment.
 
-However, you must include a file called:
+However, you must include a file called: AI_USAGE.md
 
 This should briefly describe:
 
