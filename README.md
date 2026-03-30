@@ -157,7 +157,6 @@ You do not need complex solutions, but the application should behave sensibly.
 
 These are **not required**, but are good places to demonstrate stronger engineering judgement:
 
-- Reusable UI components
 - Typed frontend code
 - Thoughtful state management
 - Tests
