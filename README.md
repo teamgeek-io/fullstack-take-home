@@ -178,6 +178,8 @@ You are allowed to use AI tools while completing this assignment.
 
 However, you must include a file called: AI_USAGE.md
 
+| Note: If AI tools are used, we will apply a higher evaluation standard. We expect stronger implementation quality and a greater portion of the optional requirements to be completed, demonstrating clear understanding and ownership of the work.
+
 This should briefly describe:
 
 - Which AI tools you used
