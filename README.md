@@ -167,7 +167,7 @@ These are **not required**, but are good places to demonstrate stronger engineer
 - Containerisation
 - Improved developer experience
 
-You do not need to implement many of these. One or two well-chosen improvements is enough.
+You do not need to implement many of these. One or two well-chosen improvements is enough. Please note which enhancements you included in your submission README file as well as any additional enhancements you included that you would like us to take note of. 
 
 ---
 
